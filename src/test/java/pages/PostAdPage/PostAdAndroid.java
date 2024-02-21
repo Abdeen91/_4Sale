@@ -48,7 +48,6 @@ public class PostAdAndroid extends PostAdAbstract{
 
     @Override
     public String validateErrorToastMassage() {
-        waitForVisibility(errorToastMsg);
         String errorToast = driver.findElement(errorToastMsg).getText();
         return errorToast;
     }
