@@ -1,4 +1,5 @@
 _4Sale
+
 Automation Test Demo For 4Sale
 
 Description Sample Automation Framework for 4Sale. Framework designed to handle IOS and android platforms. Testing implementation supports android platform only due to lack of time.
