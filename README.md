@@ -16,6 +16,7 @@ To run Appium automation scripts, you need to ensure that you have the following
 - Install UIAuotmator and XCUITest drivers
 - run appium-installer to verify your installations
 - check environment variables (JAVA_HOME , ANDROID_HOME)
+- Install 4Sale app in mobile device https://play.google.com/store/apps/details?id=com.forsale.forsale
  
 Usage
 
